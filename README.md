@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gajendra Chauhan</h1>
+<h1 align="center">Hi 👋, I'm Gajendrasinh Chauhan</h1>
 <h3 align="center">A passionate mobile developer from India having 10+ years of experience in iOS, React & Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendra1008&label=Profile%20views&color=0e75b6&style=flat" alt="gajendra1008" /> </p>
